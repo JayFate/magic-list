@@ -4,5 +4,7 @@
   "initialVersions": {
     "magic-list": "1.0.0"
   },
-  "changesets": []
+  "changesets": [
+    "rare-roses-judge"
+  ]
 }
