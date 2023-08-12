@@ -11,8 +11,7 @@
     "test:ci": "jest --coverage --runInBand",
     "changeset": "changeset",
     "version-packages": "changeset version",
-    "release": "changeset publish",
-    "preinstall": "npx only-allow pnpm"
+    "release": "changeset publish"
   },
   "keywords": [
     "magic-list"
