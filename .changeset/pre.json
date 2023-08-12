@@ -5,6 +5,7 @@
     "magic-list": "1.0.0"
   },
   "changesets": [
+    "light-dogs-report",
     "rare-roses-judge"
   ]
 }

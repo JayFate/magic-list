@@ -1,0 +1,5 @@
+---
+"magic-list": patch
+---
+
+fix
